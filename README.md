@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # Hi there 👋, I'm Adarsha
 
 🎓 I'm a Master's student in Data Science at Monash University  
